@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1986-08-01
+Version Consolidée au 1986-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L49)](#1)
     - [Préambule (art. L1)](#2)
@@ -378,16 +378,31 @@ mandat parlementaire, à la condition qu'ils n'aient cessé de naviguer que pour
 
 9° Les périodes pendant lesquelles, avant d'avoir atteint un âge fixé par voie réglementaire, les marins sont privés d'emploi
 [*chômeurs*] et perçoivent un revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du travail ou une
-allocation de conversion au sens du 4° de l'article L. 322-4 du code du travail.
+allocation de conversion au sens du 4° de l'article L. 322-4 du code du travail ou une allocation versée dans le cadre de
+l'article L. 322-3 du code du travail.
 
 La prise en compte de services accomplis par les marins dans d'autres positions spéciales afférentes à leur profession peut
 être autorisée par voie réglementaire.
 
+**Nota:**
+
+[*Nota : Code des pensions de retraite des marins L48 :
+
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
+
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions de retraite des marins L48
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 _Modifié par_:
 
-  - Loi n°85-832 1985-08-05 art. 6 JORF 6 août 1985
+  - Loi n°86-1320 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
 
 _Cité par_:
 
@@ -396,12 +411,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 81 (VD)
   - Code rural et de la pêche maritime - art. L912-16-1 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins : Dispositions applicables dans les territoires de Saint-Pierre-et-Miquelon et de la Polynésie française
-
 _Cite_:
 
+  - Code du travail - art. L322-3 (Ab)
   - Code du travail - art. L322-4 (M)
   - Code du travail - art. L351-1 (M)
   - Code du travail - art. L351-6-1 (M)
