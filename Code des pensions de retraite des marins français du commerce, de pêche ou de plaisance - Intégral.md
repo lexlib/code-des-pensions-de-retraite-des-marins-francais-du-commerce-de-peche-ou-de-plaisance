@@ -1,7 +1,7 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1986-12-31
+Version Consolidée au 1987-01-28
 ## Contenu: 
-  - [Partie législative (art. L1 à L49)](#1)
+  - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
     - [Titre Ier : Pensions de retraite des marins. (art. L2 à L38)](#3)
       - [Chapitre Ier : Conditions d'obtention des pensions. (art. L3 à L9)](#4)
@@ -12,15 +12,16 @@ Version Consolidée au 1986-12-31
     - [Titre II : Pensions de retraite des agents du service général. (art. L39 à L40)](#9)
     - [Titre III : Versements au profit de la caisse de retraites. (art. L41 à L47)](#10)
     - [Titre IV : Dispositions générales. (art. L48 à L49)](#11)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#12)
-    - [Préambule (art. R1)](#13)
-    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#14)
-      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#15)
-      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#16)
-      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#17)
-      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#18)
-    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#19)
-    - [Titre IV : Dispositions générales. (art. R29)](#20)
+    - [Titre V : Assurance volontaire. (art. L50 à L51)](#12)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#13)
+    - [Préambule (art. R1)](#14)
+    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#15)
+      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#16)
+      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#17)
+      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#18)
+      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#19)
+    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#20)
+    - [Titre IV : Dispositions générales. (art. R29)](#21)
 # Partie législative<a id=1></a>
 
 ## Préambule<a id=2></a>
@@ -185,63 +186,58 @@ _Nouveaux textes_:
 
 ###### Article L7
 
-Le droit à pension spéciale, proportionnelle à la durée des services, est acquis [*bénéficiaires*] :
-
-1° Aux marins devenus officiers ou fonctionnaires au ministère de la défense (marine) ou à la direction générale de la marine
-marchande, ou officiers ou surveillants de port ou agents des phares et balises, qu'elle qu'ait été la durée des services
-accomplis en qualité de marin ;
-
-2° Aux marins non visés au 1° ci-dessus qui :
-
-a) N'ont pas acquis, antérieurement à leur activité de marin, de droits à pension proportionnelle ou d'ancienneté servie par
-l'Etat ou un régime légal ou réglementaire de sécurité sociale ;
-
-b) Et ont accompli une durée de services conduisant à pension sur la caisse de retraites des marins, au moins égale au
-minimum prévu à l'article L. 336 du Code de la sécurité sociale.
+Le marin qui ne peut prétendre à l'attribution d'une pension d'ancienneté ou d'une pension proportionnelle a droit à une
+pension spéciale proportionnelle à la durée de ses services, dans les conditions fixées à l'article L. 8.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Code de la sécurité sociale L336
-  - Loi n°79-576 1979-07-10 ART. 1
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins : Dispositions applicables dans les territoires de Saint-Pierre-et-Miquelon et de la Polynésie française
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 _Modifié par_:
 
-  - Loi n°79-576 1979-07-10 art. 1 JORF 11 JUILLET 1979
+  - Loi n°87-39 du 27 janvier 1987 - art. 7 (VT) JORF 28 janvier 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-11 (V)
 
 
 ###### Article L8
 
-La concession et l'entrée en jouissance de la pension spéciale interviennent [*date*] :
+La concession et l'entrée en jouissance de la pension spéciale interviennent au moment de l'entrée en jouissance de la
+pension de retraite servie par l'Etat ou un régime légal ou réglementaire de sécurité sociale sous réserve que l'intéressé
+ait atteint un âge fixé par décret en Conseil d'Etat.
 
-1° Dans le cas prévu au 1° de l'article L. 7 au moment où l'intéressé entre en jouissance de sa pension civile ou militaire ;
-
-2° Dans le cas prévu au 2° de l'article L. 7 :
-
-a) Soit au moment de l'entrée en jouissance de la pension de retraite servie par l'Etat ou un régime légal ou réglementaire
-de sécurité sociale sous réserve que l'intéressé ait atteint un âge fixé par voie réglementaire ;
-
-b) Soit, à défaut, lorsque l'intéressé atteint l'âge prévu à l'article L. 345 du Code de la sécurité sociale.
+A défaut de droit à pension de retraite servie par l'Etat ou un régime légal ou réglementaire de sécurité sociale, la
+concession et l'entrée en jouissance interviennent lorsque l'intéressé atteint un âge fixé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de la sécurité sociale L345
-  - Code des pensions de retraite des marins L7
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins : Dispositions applicables dans les territoires de Saint-Pierre-et-Miquelon et de la Polynésie française
 
 _Cité par_:
 
   - Décret du 17 juin 1938 - art. 65 (V)
+
+_Codifié par_:
+
+  - Décret n°68-292 du 21 mars 1968
+
+_Modifié par_:
+
+  - Loi n°87-39 du 27 janvier 1987 - art. 7 (VT) JORF 28 janvier 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-12 (V)
 
 
 ###### Article L9
@@ -1488,9 +1484,87 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=12></a>
+## Titre V : Assurance volontaire.<a id=12></a>
 
-## Préambule<a id=13></a>
+###### Article L50
+
+Par dérogation aux dispositions des articles L. 742-1 et L. 742-2 du code de la sécurité sociale, les Français occupant un
+emploi permanent à bord d'un navire battant pavillon étranger peuvent être affiliés à un régime d'assurance volontaire géré
+par l'établissement des invalides de la marine.
+
+Un décret en Conseil d'Etat fixe les conditions d'affiliation des assurés volontaires ainsi que les droits et obligations
+résultant de cette affiliation.
+
+**Nota:**
+
+[*Nota : Code des pensions de retraite des marins L48 :
+
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions de retraite des marins L48
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Créé par_:
+
+  - Loi n°87-39 du 27 janvier 1987 - art. 6 () JORF 28 janvier 1987
+
+_Abrogé par_:
+
+  - Loi n°90-86 du 23 janvier 1990 - art. 22 () JORF 25 janvier 1990
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L742-1 (M)
+  - Code de la sécurité sociale. - art. L742-2 (M)
+
+
+###### Article L51
+
+Les marins étrangers autorisés à embarquer sous pavillon français et non admis à concourir à pension en application des
+dispositions du présent code peuvent être affiliés au régime d'assurance volontaire visé à l'article L. 50.
+
+Un décret en Conseil d'Etat fixe les conditions d'affiliation des intéressés à ce régime ainsi que les droits et obligations
+en résultant.
+
+**Nota:**
+
+[*Nota : Code des pensions de retraite des marins L48 :
+
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions de retraite des marins L48
+
+_Cite_:
+
+  - Code des pensions de retraite des marins L50
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Créé par_:
+
+  - Loi n°87-39 du 27 janvier 1987 - art. 6 () JORF 28 janvier 1987
+
+_Abrogé par_:
+
+  - Loi n°90-86 du 23 janvier 1990 - art. 22 () JORF 25 janvier 1990
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=13></a>
+
+## Préambule<a id=14></a>
 
 ###### Article R1
 
@@ -1504,9 +1578,9 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre Ier : Pensions de retraite des marins.<a id=14></a>
+## Titre Ier : Pensions de retraite des marins.<a id=15></a>
 
-### Chapitre Ier : Conditions d'obtention des pensions.<a id=15></a>
+### Chapitre Ier : Conditions d'obtention des pensions.<a id=16></a>
 
 ###### Article R2
 
@@ -1579,7 +1653,7 @@ _Cite_:
   - Code des pensions de retraite des marins L8 AL. 2
 
 
-### Chapitre II : Services ouvrant droit à pension.<a id=16></a>
+### Chapitre II : Services ouvrant droit à pension.<a id=17></a>
 
 ###### Article R6
 
@@ -1756,7 +1830,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-### Chapitre III : Détermination du montant des pensions.<a id=17></a>
+### Chapitre III : Détermination du montant des pensions.<a id=18></a>
 
 ###### Article R11
 
@@ -1969,7 +2043,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-### Chapitre IV : Dispositions diverses.<a id=18></a>
+### Chapitre IV : Dispositions diverses.<a id=19></a>
 
 ###### Article R20
 
@@ -2028,7 +2102,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre III : Versements au profit de la caisse de retraites des marins.<a id=19></a>
+## Titre III : Versements au profit de la caisse de retraites des marins.<a id=20></a>
 
 ###### Article R23
 
@@ -2232,7 +2306,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre IV : Dispositions générales.<a id=20></a>
+## Titre IV : Dispositions générales.<a id=21></a>
 
 ###### Article R29
 
