@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1968-03-31
+Version Consolidée au 1979-07-11
 ## Contenu: 
   - [Partie législative (art. L1 à L49)](#1)
     - [Préambule (art. L1)](#2)
@@ -8,9 +8,9 @@ Version Consolidée au 1968-03-31
       - [Chapitre II : Services ouvrant droit à pension. (art. L10 à L13)](#5)
       - [Chapitre III : Détermination du montant des pensions. (art. L14 à L25)](#6)
       - [Chapitre IV : Prestations familiales. (art. L26)](#7)
-      - [Chapitre V : Dispositions diverses. (art. L28 à L38)](#8)
+      - [Chapitre V : Dispositions diverses. (art. L27 à L38)](#8)
     - [Titre II : Pensions de retraite des agents du service général. (art. L39 à L40)](#9)
-    - [Titre III : Versements au profit de la caisse de retraites. (art. L42 à L47)](#10)
+    - [Titre III : Versements au profit de la caisse de retraites. (art. L41 à L47)](#10)
     - [Titre IV : Dispositions générales. (art. L48 à L49)](#11)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#12)
     - [Préambule (art. R1)](#13)
@@ -183,6 +183,38 @@ _Nouveaux textes_:
   - Code des transports - art. L5552-7 (V)
 
 
+###### Article L7
+
+Le droit à pension spéciale, proportionnelle à la durée des services, est acquis [*bénéficiaires*] :
+
+1° Aux marins devenus officiers ou fonctionnaires au ministère de la défense (marine) ou à la direction générale de la marine
+marchande, ou officiers ou surveillants de port ou agents des phares et balises, qu'elle qu'ait été la durée des services
+accomplis en qualité de marin ;
+
+2° Aux marins non visés au 1° ci-dessus qui :
+
+a) N'ont pas acquis, antérieurement à leur activité de marin, de droits à pension proportionnelle ou d'ancienneté servie par
+l'Etat ou un régime légal ou réglementaire de sécurité sociale ;
+
+b) Et ont accompli une durée de services conduisant à pension sur la caisse de retraites des marins, au moins égale au
+minimum prévu à l'article L. 336 du Code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la sécurité sociale L336
+  - Loi n°79-576 1979-07-10 ART. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions de retraite des marins : Dispositions applicables dans les territoires de Saint-Pierre-et-Miquelon et de la Polynésie française
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 1 JORF 11 JUILLET 1979
+
+
 ###### Article L8
 
 La concession et l'entrée en jouissance de la pension spéciale interviennent :
@@ -262,6 +294,115 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code des transports - art. L5552-14 (V)
+
+
+###### Article L11
+
+Le temps de navigation active et professionnelle accompli sur des bâtiments français pourvus d'un rôle d'équipage dans des
+conditions fixées par voie réglementaire, entre en compte pour sa durée effective, sous réserve des dispositions ci-après :
+
+1° Entrent en compte, pour le double de leur durée, les services militaires et les temps de navigation active et
+professionnelle accomplis, en période de guerre, dans les conditions fixées par voie réglementaire.
+
+La disposition ci-dessus s'applique à tous les marins du commerce et de la pêche pensionnés antérieurement ou non à
+l'accomplissement des services susvisés.
+
+Les dispositions des deux phrases qui précèdent ne peuvent ouvrir droit à pension aux marins qui, avant l'accomplissement de
+leurs services de guerre, auraient abandonné la navigation sans être pensionnés.
+
+2° Entre en compte dans la liquidation des pensions le temps pendant lequel les officiers et marins appartiennent aux cadres
+permanents des compagnies de navigation maritime, que les intéressés soient embarqués ou non.
+
+3° Donne lieu à bonification, dans les conditions et limites fixées par voie réglementaire, le temps de campagne effectué sur
+des navires hôpitaux.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 11 les mots " les officiers et marins appartiennent aux cadres permanents ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 du 21 mars 1968
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-13 (V)
+  - Code des transports - art. L5552-15 (V)
+  - Code des transports - art. L5552-17 (V)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 8 JORF 11 juillet 1979
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L12
+
+Entrent également en compte pour la pension :
+
+1° Le temps de navigation accompli par les marins français sous le pavillon d'un Etat placé sous protectorat ou mandat
+français ou sur des bâtiments autorisés à naviguer sous pavillon français dans les mers lointaines ;
+
+2° Le temps de navigation accompli sous pavillon monégasque ;
+
+3° Le temps passé par les marins, en exécution de leur contrat, en qualité de passagers à bord d'un navire français ou
+étranger, pour se rendre hors du territoire métropolitain en vue d'y embarquer sur un navire français ou pour regagner ce
+territoire ;
+
+4° Dans les conditions déterminées par voie réglementaire, les périodes où le marin a dû interrompre la navigation pour cause
+de congé ou repos, de maladie, d'accident, de naufrage, d'innavigabilité du navire ou en raison de circonstances résultant de
+l'état de guerre ;
+
+5° Dans les conditions déterminées par voie réglementaire, les périodes antérieures à l'ouverture du rôle d'équipage ou
+postérieures à la clôture de ce rôle durant lesquelles les marins d'un navire sont affectés à des tâches de nature technique
+à bord du même bâtiment ;
+
+6° Dans la limite d'une durée fixée par décret en Conseil d'Etat :
+
+Le temps pendant lequel les marins ayant accompli au moins dix ans de navigation sont employés d'une façon permanente dans
+les services techniques des entreprises d'armement maritimes et des sociétés de classification reconnues ;
+
+7° Le temps pendant lequel les marins ayant antérieurement accompli au moins cinq ans de navigation professionnelle sont
+titulaires de fonctions permanentes dans les organisations syndicales maritimes régulièrement constituées, dans les foyers,
+dépôts ou maisons de marins à la condition qu'ils n'aient cessé de naviguer que pour exercer ces fonctions ;
+
+8° Le temps pendant lequel les marins ayant accompli au moins cinq ans de navigation professionnelle ont été investis d'un
+mandat parlementaire, à la condition qu'ils n'aient cessé de naviguer que pour exercer ce mandat.
+
+9° Les périodes pendant lesquelles, avant d'avoir atteint un âge fixé par voie réglementaire, les marins sont privés d'emploi
+et perçoivent un revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du travail.
+
+La prise en compte de services accomplis par les marins dans d'autres positions spéciales afférentes à leur profession peut
+être autorisée par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 28 août 2008 - art. 3 (VD)
+  - Décret n°2009-1286 du 23 octobre 2009 (V)
+  - Code général des impôts, CGI. - art. 81 (M)
+  - Code rural et de la pêche maritime - art. L912-16-1 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions de retraite des marins : Dispositions applicables dans les territoires de Saint-Pierre-et-Miquelon et de la Polynésie française
+
+_Cite_:
+
+  - Code du travail - art. L351-1 (M)
+  - Code du travail - art. L351-6-1 (M)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 ART. 2 JORF 11 JUILLET 1979
 
 
 ###### Article L13
@@ -375,6 +516,57 @@ _Nouveaux textes_:
   - Code des transports - art. L5552-22 (V)
 
 
+###### Article L18
+
+Sous réserve des dispositions de l'article L. 24, les veuves de marins ont droit, à partir d'un âge fixé par voie
+réglementaire à une fraction de la pension et des bonifications dont le mari était titulaire ou, s'il est décédé avant d'être
+pensionné, de la pension et des bonifications qu'il aurait obtenues en raison de ses services effectifs. Toutefois, la veuve
+est dispensée de la condition d'âge s'il existe un ou plusieurs enfants issus du mariage avec le marin et elle conserve ses
+droits même en cas de décès de ses enfants.
+
+Chaque orphelin a droit, en outre, à une pension temporaire égale à une fraction de la pension ci-dessus, sans que toutefois
+la veuve et les orphelins puissent recevoir au total plus du montant de la pension attribuée ou qui aurait été attribuée au
+marin. S'il y a excédent, il est procédé à la réduction temporaire des pensions d'orphelins.
+
+Au cas de décès de la mère ou si celle-ci ne peut prétendre à pension, les droits qui lui auraient appartenu passent aux
+enfants et la pension temporaire est maintenue à partir du deuxième enfant, dans la limite du maximum fixé à l'alinéa
+précédent.
+
+Les enfants naturels dont la filiation est légalement établie et les enfants adoptifs sont assimilés aux enfants légitimes.
+
+Le droit à pension des enfants légitimes, naturels dont la filiation est légalement établie ou adoptifs n'est soumis à aucune
+condition d'antériorité de la naissance ou de l'adoption par rapport à la date de cessation d'activité du marin.
+
+Les pensions attribuées aux enfants ne peuvent pas au total être inférieures au montant des majorations pour charges de
+famille dont le père bénéficierait de leur chef, en application de l'article L. 26, s'il était vivant.
+
+La pension temporaire d'orphelin est payée jusqu'à un âge limite qui varie selon que l'orphelin est ou non en apprentissage,
+ou poursuit ou non des études. Cette limite d'âge est supprimée si l'orphelin est atteint d'infirmités le mettant dans
+l'impossibilité absolue et définitive de subvenir à ses besoins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-25 (V)
+  - Code des transports - art. L5552-31 (V)
+  - Code des transports - art. L5552-32 (V)
+  - Code des transports - art. L5552-33 (V)
+  - Code des transports - art. L5552-35 (V)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 4 JORF 11 juillet 1979
+
+
 ###### Article L19
 
 Lorsqu'il existe une veuve et des enfants mineurs de deux lits, par suite d'un mariage antérieur du marin, ou des enfants
@@ -398,6 +590,74 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code des transports - art. L5552-36 (V)
+
+
+###### Article L21
+
+Si, au moment du décès, le mari était titulaire de l'une des pensions prévues à l'article L. 3, la veuve n'a droit à la
+réversion que si son mariage avec le marin a été contracté deux ans au moins [*délai minimum*] avant la concession de la
+pension de celui-ci.
+
+Si, au moment du décès, le mari n'était pas titulaire d'une des pensions ci-dessus indiquées mais comptait une durée de
+services au moins égale à celle exigée pour l'attribution de la pension proportionnelle prévue à l'article L. 5, la veuve n'a
+droit à pension par concession directe que si son mariage avec le marin a été contracté deux ans au moins avant la cessation
+des services de celui-ci.
+
+Si les conditions d'antériorité prévues ci-dessus ne sont pas réunies, le droit à pension de veuve est cependant reconnu :
+
+1° Si un ou plusieurs enfants sont issus du mariage ;
+
+2° Ou si le mariage a duré au moins quatre années. Dans ce dernier cas, l'entrée en jouissance est différée jusqu'à ce que la
+veuve ait atteint un âge fixé par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 du 21 mars 1968
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-28 (V)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 5 JORF 11 juillet 1979
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L22
+
+La veuve ou la femme divorcée qui contracte un nouveau mariage ou vit en état de concubinage notoire perd son droit à
+pension.
+
+Les droits qui lui appartenaient ou qui lui auraient appartenu passent, dans les conditions prévues à l'article L. 18, alinéa
+3, aux enfants qui réunissent les conditions d'âge exigées pour l'octroi d'une pension.
+
+La veuve ou la femme divorcée remariée, redevenue veuve ou divorcée ou séparée de corps, ainsi que la veuve ou la femme
+divorcée qui cesse de vivre en état de concubinage peut, sur sa demande, recouvrer son droit à pension et demander qu'il soit
+mis fin à l'application qui a pu être faite des dispositions de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 du 21 mars 1968
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-27 (V)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 6-1 JORF 11 juillet 1979
 
 
 ###### Article L23
@@ -517,6 +777,32 @@ _Nouveaux textes_:
 
 
 ### Chapitre V : Dispositions diverses.<a id=8></a>
+
+###### Article L27
+
+Lorsque par suite du fait personnel du pensionné la demande de liquidation ou de révision de la pension est déposée
+postérieurement à l'expiration de la 4ème année qui suit celle de l'entrée en jouissance normale de la pension, le titulaire
+ne peut prétendre qu'aux arrérages afférents à l'année au cours de laquelle la demande a été déposée et aux quatre années
+antérieures.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 du 21 mars 1968
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-41 (V)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 7 JORF 11 juillet 1979
+
 
 ###### Article L28
 
@@ -720,6 +1006,43 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
+###### Article L37
+
+Sous réserve de l'application des dispositions des articles L. 6, L. 18 et L. 31, les pensions sont définitivement acquises
+et ne peuvent être révisées ou supprimées, à l'initiative de l'Administration ou sur demande des intéressés, que dans les
+conditions suivantes :
+
+- à tout moment, en cas d'erreur matérielle ;
+
+- dans un délai d'un an, à compter de la notification de la décision de concession initiale de la pension, en cas d'erreur de
+droit.
+
+La restitution des sommes payées au titre de la pension supprimée ou révisée est exigible lorsque l'intéressé était de
+mauvaise foi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L6, L18, L31
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-44 (V)
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 6 2 JORF 11 juillet 1979
+
+
 ###### Article L38
 
 Quiconque aura touché ou tenté de toucher indûment les arrérages d'une pension servie par la caisse de retraites, quiconque
@@ -829,6 +1152,48 @@ _Abrogé par_:
 
 
 ## Titre III : Versements au profit de la caisse de retraites.<a id=10></a>
+
+###### Article L41
+
+Tous les services à bord des navires de commerce ou de pêche par des marins français, par des agents du service général ainsi
+que par des marins n'ayant pas la nationalité française et tous les services (autres que les services à l'Etat) et les
+périodes de privation d'emploi mentionnées à l'article L. 12-9° qui sont de nature à ouvrir droit au bénéfice des pensions ou
+allocations servies par la caisse de retraites, donnent lieu [*attributions*], de la part des propriétaires ou armateurs de
+navires de mer ou de la part des employeurs, à un versement calculé en fonction des salaires des marins et destiné à
+l'alimentation de la caisse.
+
+Ce versement comprend, outre la contribution patronale incombant aux propriétaires, armateurs ou employeurs, les cotisations
+personnelles des marins, dont le montant est retenu lors du règlement des salaires.
+
+Ce versement est garanti par le même privilège que les salaires des gens de mer.
+
+Les droits correspondant auxdits versements se prescrivent par cinq ans [*délai*] à dater du désarmement administratif du
+bâtiment.
+
+**Nota:**
+
+[*Nota : Code des pensions de retraite des marins L48 :
+
+dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Cite_:
+
+  - Code des pensions de retraite des marins L12 9°
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions de retraite des marins L48
+
+_Modifié par_:
+
+  - Loi n°79-576 1979-07-10 art. 3 JORF 11 juillet 1979
+
 
 ###### Article L42
 
