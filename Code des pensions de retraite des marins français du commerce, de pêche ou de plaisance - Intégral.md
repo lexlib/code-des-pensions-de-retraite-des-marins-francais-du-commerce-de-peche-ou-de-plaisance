@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1979-07-11
+Version Consolidée au 1979-09-15
 ## Contenu: 
   - [Partie législative (art. L1 à L49)](#1)
     - [Préambule (art. L1)](#2)
@@ -16,7 +16,7 @@ Version Consolidée au 1979-07-11
     - [Préambule (art. R1)](#13)
     - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#14)
       - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#15)
-      - [Chapitre II : Services ouvrant droit à pension. (art. R9 à R10)](#16)
+      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#16)
       - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#17)
       - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#18)
     - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#19)
@@ -1474,6 +1474,44 @@ _Cite_:
 
 ### Chapitre II : Services ouvrant droit à pension.<a id=16></a>
 
+###### Article R6
+
+Les services visés au 1° de l'article L. 11 sont :
+
+a) Les services accomplis à la mer au service de l'Etat entre le 2 août 1914 et le 11 novembre 1918 et entre le 3 septembre
+1939 et le 1er juin 1946 ;
+
+b) Les services accomplis à bord des navires de commerce et de pêche entre le 2 août 1914 et le 11 novembre 1918 ;
+
+c) Les services accomplis en totalité ou en partie en Manche, mer du Nord et Atlantique entre le 3 septembre 1939 et le 1er
+juin 1946 ;
+
+d) Les services accomplis en Méditerranée entre le 11 juin 1940 et la date légale de cessation des hostilités ainsi que dans
+les autres mers sur les navires dont les équipages ont bénéficié des primes de la loi du 14 septembre 1940 ;
+
+e) Les services accomplis entre le 2 août 1914 et le 11 novembre 1918 et entre le 3 septembre 1939 et le 1er juin 1946 dans
+les formations maritimes ou militaires françaises ou alliées ayant combattu à terre ou dans les organisations de Résistance ;
+
+f) Les périodes passées à terre en attente d'un embarquement dans le cadre d'un engagement dans les forces françaises libres,
+entre le 26 juin 1940 et le 30 octobre 1943, dans la limite d'une durée égale à celle des embarquements effectués au cours de
+cette période.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L11
+  - Loi n°1940-09-14
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Modifié par_:
+
+  - Décret n°79-791 1979-09-13 art. 1 JORF 15 septembre 1979
+
+
 ###### Article R9
 
 Est seule réputée active pour l'application des articles tant législatifs que réglementaires du présent code, lorsqu'il
@@ -1585,6 +1623,40 @@ celle-ci est suspendu jusqu'à la cessation de l'activité ou jusqu'à ce que l'
 _Cite_:
 
   - Code des pensions de retraite des marins R11, L6, R4, L11 AL. 1, R6
+
+
+###### Article R14
+
+Pour l'application de l'article L. 17, à l'exception des enfants décédés par fait de guerre, ne peuvent être pris en compte
+pour ouvrir droit à bonification que les enfants qui ont été élevés pendant au moins neuf ans, soit avant leur seizième
+anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens de l'article L. 527 du Code de la sécurité sociale
+(1).
+
+Pour satisfaire à la condition de durée ci-dessus, il est tenu compte, le cas échéant, du temps pendant lequel les enfants
+ont été élevés par le conjoint après le décès du titulaire.
+
+Le taux de la bonification de pension est fixé à 5 % de son montant pour deux enfants, à 10 % pour trois enfants et à 15 %
+au-delà.
+
+**Nota:**
+
+(1)  L'article L527 du Code de la sécurité sociale est abrogé par le Décret 85-1353 du 17 décembre 1985 article 4.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L17, 4
+  - Décret n°85-1353 1985-12-17
+  - Code de la sécurité sociale L527
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Modifié par_:
+
+  - Décret n°79-791 1979-09-13 art. 2 JORF 15 septembre 1979
 
 
 ###### Article R15
