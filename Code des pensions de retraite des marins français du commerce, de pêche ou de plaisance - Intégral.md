@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1995-08-01
+Version Consolidée au 1997-11-19
 ## Contenu: 
   - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
@@ -9,43 +9,45 @@ Version Consolidée au 1995-08-01
       - [Chapitre III : Détermination du montant des pensions. (art. L14 à L25)](#6)
       - [Chapitre IV : Prestations familiales. (art. L26)](#7)
       - [Chapitre V : Dispositions diverses. (art. L27 à L38)](#8)
-    - [Titre II : Pensions de retraite des agents du service général. (art. L39 à L40)](#9)
-    - [Titre III : Versements au profit de la caisse de retraites. (art. L41 à L47)](#10)
-    - [Titre IV : Dispositions générales. (art. L48 à L49)](#11)
-    - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. L50 à L51)](#12)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#13)
-    - [Préambule (art. R1)](#14)
-    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#15)
-      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#16)
-      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#17)
-      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#18)
-      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#19)
-    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#20)
-    - [Titre IV : Dispositions générales. (art. R29)](#21)
+    - [Titre III : Versements au profit de la caisse de retraites. (art. L41 à L47)](#9)
+    - [Titre IV : Dispositions générales. (art. L48 à L49)](#10)
+    - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. L50 à L51)](#11)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#12)
+    - [Préambule (art. R1)](#13)
+    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#14)
+      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#15)
+      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#16)
+      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#17)
+      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#18)
+    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#19)
+    - [Titre IV : Dispositions générales. (art. R29)](#20)
 # Partie législative<a id=1></a>
 
 ## Préambule<a id=2></a>
 
 ###### Article L1
 
-Le service des pensions de retraite des marins français de commerce, de pêche ou de plaisance et des agents du service
-général à bord des navires est assuré par la caisse de retraites des marins [*organisme payeur compétent*].
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins L48 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
+Le service des pensions de retraite des marins français de commerce, de pêche, de cultures marines ou de plaisance et des
+agents du service général à bord des navires est assuré par la caisse de retraites des marins.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins L48
 
 _Codifié par_:
 
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Modifié par_:
+
+  - Loi n°97-1051 du 18 novembre 1997 - art. 43 () JORF 19 novembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5551-1 (V)
+  - Code des transports - art. L5552-1 (V)
 
 
 ## Titre Ier : Pensions de retraite des marins.<a id=3></a>
@@ -366,8 +368,9 @@ Le temps pendant lequel les marins ayant accompli au moins dix ans [*durée*] de
 permanente dans les services techniques des entreprises d'armement maritimes et des sociétés de classification reconnues ;
 
 7° Le temps pendant lequel les marins ayant antérieurement accompli au moins cinq ans de navigation professionnelle sont
-titulaires de fonctions permanentes dans les organisations syndicales maritimes régulièrement constituées, dans les foyers,
-dépôts ou maisons de marins à la condition qu'ils n'aient cessé de naviguer que pour exercer ces fonctions ;
+titulaires d'une fonction permanente dans les organisations professionnelles ou syndicales maritimes régulièrement
+constituées, dans les foyers, dépôts ou maisons de marins, à la condition qu'ils n'aient cessé de naviguer que pour exercer
+cette fonction ;
 
 8° Le temps pendant lequel les marins ayant accompli au moins cinq ans de navigation professionnelle ont été investis d'un
 mandat parlementaire, à la condition qu'ils n'aient cessé de naviguer que pour exercer ce mandat.
@@ -375,7 +378,19 @@ mandat parlementaire, à la condition qu'ils n'aient cessé de naviguer que pour
 9° Les périodes pendant lesquelles, avant d'avoir atteint un âge fixé par voie réglementaire, les marins sont privés d'emploi
 [*chômeurs*] et perçoivent un revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du travail ou une
 allocation de conversion au sens du 4° de l'article L. 322-4 du code du travail ou une allocation versée dans le cadre de
-l'article L. 322-3 du code du travail.
+l'article L. 322-3 du code du travail ou une allocation versée en application de l'article 53 de la loi n° 97-1051 du 18
+novembre 1997 d'orientation sur la pêche maritime et les cultures marines.
+
+10° Le temps pendant lequel :
+
+- un marin interrompt la navigation pour les besoins de la gestion de l'entreprise qu'il dirige, à condition que les périodes
+correspondantes représentent, par année civile, moins de 50 % du tolal des services validés pour pension ;
+
+- un marin, ayant accompli au moins dix ans de navigation professionnelle, cesse de naviguer pour gérer personnellement, de
+façon permanente, l'entreprise d'armement maritime qu'il dirige ;
+
+11° Le temps passé dans les activités mentionnées aux 7° et 10° dès lors que le marin est reconnu atteint d'une infirmité le
+mettant dans l'impossibilité absolue et définitive de continuer l'exercice de la navigation.
 
 La prise en compte de services accomplis par les marins dans d'autres positions spéciales afférentes à leur profession peut
 être autorisée par voie réglementaire.
@@ -398,7 +413,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-1320 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
+  - Loi n°97-1051 du 18 novembre 1997 - art. 29 () JORF 19 novembre 1997
+
+_Cite_:
+
+  - Loi n°97-1051 du 18 novembre 1997 - art. 53 (M)
+  - Code du travail - art. L322-3 (Ab)
+  - Code du travail - art. L322-4 (M)
+  - Code du travail - art. L351-1 (M)
+  - Code du travail - art. L351-6-1 (M)
 
 _Cité par_:
 
@@ -406,13 +429,6 @@ _Cité par_:
   - Décret n°2009-1286 du 23 octobre 2009 (V)
   - Code général des impôts, CGI. - art. 81 (VD)
   - Code rural et de la pêche maritime - art. L912-16-1 (V)
-
-_Cite_:
-
-  - Code du travail - art. L322-3 (Ab)
-  - Code du travail - art. L322-4 (M)
-  - Code du travail - art. L351-1 (M)
-  - Code du travail - art. L351-6-1 (M)
 
 
 ###### Article L13
@@ -575,6 +591,40 @@ _Nouveaux textes_:
 _Modifié par_:
 
   - Loi n°79-576 1979-07-10 art. 4 JORF 11 juillet 1979
+
+
+###### Article L18-1
+
+Le conjoint survivant d'une femme marin peut, sous les réserves et dans les conditions fixées par le présent article,
+prétendre à une fraction fixée par décret en Conseil d'Etat de la pension obtenue par elle ou qu'elle aurait pu obtenir s'il
+satisfait aux conditions énoncées à l'article L. 21.
+
+La jouissance de cette pension est différée jusqu'au jour où le conjoint survivant atteint l'âge minimum prévu pour
+l'application des dispositions du deuxième alinéa de l'article L. 8. Toutefois, lorsque le conjoint survivant est reconnu,
+dans les formes prévues pour l'application des dispositions de l'article L. 6, atteint d'une infirmité ou maladie incurable
+le rendant définitivement incapable de travailler, l'entrée en jouissance est fixée à la date où la constatation en a été
+faite.
+
+Les orphelins d'une femme marin ont droit à pension dans les mêmes conditions que les orphelins des autres participants au
+régime, que leur père soit vivant ou non.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Créé par_:
+
+  - Loi n°97-1051 du 18 novembre 1997 - art. 19 () JORF 19 novembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-31 (V)
 
 
 ###### Article L19
@@ -1115,90 +1165,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5552-45 (V)
 
 
-## Titre II : Pensions de retraite des agents du service général.<a id=9></a>
-
-###### Article L39
-
-Sont affiliées obligatoirement à la caisse de retraites des marins les personnes des deux sexes, de nationalité française
-remplissant à bord un emploi directement salarié par l'armement se rattachant à l'exploitation du navire et inscrites sur les
-matricules des agents du service général par application des dispositions en vigueur.
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins L48 :
-
-dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon et de la Polynésie française.*]
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins L48
-
-_Codifié par_:
-
-  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
-_Abrogé par_:
-
-  - Loi n°97-1051 du 18 novembre 1997 - art. 19 () JORF 19 novembre 1997
-
-
-###### Article L40
-
-Les agents du service général peuvent, quelle que soit la date à laquelle ils ont cessé de naviguer, prétendre aux pensions,
-suppléments ou bonifications établis par le présent code au profit des autres marins français :
-
-1° Leurs services sont décomptés pour la détermination du droit à pension dans les mêmes conditions que pour les autres
-marins français.
-
-La navigation accomplie par les agents du service général sur les bâtiments armés en plaisance n'est réputée professionnelle
-qu'en ce qui concerne le personnel affecté exclusivement au service de l'équipage.
-
-2° Les veuves et les orphelins des agents du service général peuvent prétendre à pension dans les mêmes conditions que les
-veuves et orphelins des autres marins français.
-
-En aucun cas, les maris ne peuvent avoir droit à pension du chef de leur femme, agent du service général, décédée. Mais les
-orphelins des femmes participantes ont droit à pension dans les mêmes conditions que les orphelins des autres participants,
-que leur père soit vivant ou non.
-
-3° Les agents du service général bénéficient de majorations de pensions pour enfants à charge dans les mêmes conditions que
-les autres marins français.
-
-4° Les dispositions des articles L. 27 et suivants sont applicables, en ce qui concerne les pensions de retraite, aux agents
-du service général.
-
-Une femme agent du service général peut cumuler une pension personnelle acquise au titre de ses services avec une pension de
-veuve sur la caisse de retraites des marins.
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins L48 : disposition applicables dans le territoire de Saint-Pierre-et-
-Miquelon et de la Polynésie française.
-
-Code des pensions de retraite des marins L24 : les dispositions des alinéas 2 et 4 de l'article L40 sont applicables aux
-veuves.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des pensions de retraite des marins L27 et S.
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins L48
-
-_Codifié par_:
-
-  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
-_Abrogé par_:
-
-  - Loi n°97-1051 du 18 novembre 1997 - art. 19 () JORF 19 novembre 1997
-
-
-## Titre III : Versements au profit de la caisse de retraites.<a id=10></a>
+## Titre III : Versements au profit de la caisse de retraites.<a id=9></a>
 
 ###### Article L41
 
@@ -1288,51 +1255,45 @@ _Nouveaux textes_:
 
 ###### Article L43
 
-Tout marin français propriétaire pour la totalité d'un ou de plusieurs bateaux armés à la pêche côtière, à la pêche au large
-ou à la navigation côtière est exonéré, en tout ou en partie, de la contribution patronale définie à l'article L. 41, pour
-l'équipage du bateau sur lequel il est embarqué.
+Sont exonérés, en tout ou partie, de la contribution patronale définie à l'article L. 41, pour l'équipage du bateau sur
+lequel ils sont embarqués, le propriétaire ou les copropriétaires d'un ou de plusieurs bateaux armés à la petite pêche, à la
+pêche côtière, à la pêche au large, aux cultures marines ou à la navigation côtière, à condition d'être tous embarqués sur
+l'un ou l'autre de ces bateaux. 
+
+Bénéficie du même avantage la société qui est propriétaire du navire ou copropriétaire majoritaire du navire sur lequel sont
+embarqués un ou plusieurs marins détenant la totalité du capital social de cette société et en assurant en droit la
+direction, les parts détenues par les ascendants, descendants ou conjoints des marins étant assimilées à celles détenues par
+ces derniers. 
+
+Est considéré comme marin propriétaire embarqué le marin embarqué sur un navire en copropriété avec un armement coopératif ou
+une société visée à l'article 238 bis HP du code général des impôts, dans le cadre d'une accession progressive à la propriété
+dans un délai qui ne peut excéder dix ans, au terme duquel ce marin doit accéder à l'entière propriété. 
 
 L'étendue de cette exonération est fixée par voie réglementaire en fonction de la longueur des bateaux et, en ce qui concerne
-les pilotes, du volume annuel des navires pilotés dans chaque station à l'entrée et à la sortie.
+les pilotes, du volume annuel des navires pilotés dans chaque station à l'entrée et à la sortie. 
 
-Les dispositions précédentes sont applicables [*bénéficiaires*] :
+L'exonération est maintenue lorsqu'un marin ouvrant droit à celle-ci interrompt la navigation pour une période de repos dans
+la limite d'une durée annuelle fixée par voie réglementaire, pour l'accomplissement d'une période de service national ou d'un
+stage de formation professionnelle maritime, pour les besoins de la gestion de son entreprise, dans les conditions définies
+au deuxième alinéa du 10° de l'article L. 12, ou est contraint d'abandonner la navigation par suite d'une inaptitude
+définitive ou temporaire, due à une maladie ou à un accident, donnant droit aux prestations de la caisse générale de
+prévoyance. 
 
-- aux marins copropriétaires pour la totalité d'un ou de plusieurs bateaux, à la condition d'être tous embarqués sur l'un ou
-l'autre de ces bateaux ;
+Continuent à bénéficier de l'exonération les veuves et orphelins des marins propriétaires ou copropriétaires s'étant trouvés
+dans les situations mentionnées aux alinéas ci-dessus. 
 
-- au marin propriétaire qui est dans l'obligation d'abandonner la navigation en raison d'une invalidité définitive ou
-temporaire donnant droit aux prestations de la caisse générale de prévoyance ou d'une convocation pour une période de service
-militaire ;
-
-- aux marins copropriétaires lorsque celui-ci ou ceux d'entre eux qui ont abandonné la navigation se trouvent dans la
-situation qui vient d'être définie ;    - aux veuves et orphelins des marins propriétaires ou copropriétaires ci-dessus
-mentionnés ; toutefois cet avantage n'est maintenu à l'égard des orphelins que jusqu'à ce que le plus jeune ait atteint l'âge
-limite prévu au dernier alinéa de l'article L. 18.
-
-**Nota:**
-
-[*Nota : Code des pensions de retraite des marins L48 : disposition applicables dans le territoire de Saint-Pierre-et-
-Miquelon et de la Polynésie française.
-
-Loi 85-10 du 3 janvier 1985 art. 91 : date d'application - dispositions transitoires.*]
+Toutefois, cet avantage n'est maintenu à l'égard des orphelins que jusqu'à ce que le plus jeune ait atteint l'âge limite
+prévu au dernier alinéa de l'article L. 18.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code des pensions de retraite des marins L41, L18
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins L48
-
 _Codifié par_:
 
-  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+  - Décret n°68-292 du 21 mars 1968
 
 _Modifié par_:
 
-  - Loi n°85-10 1985-01-03 art. 91 JORF 4 janvier 1985
+  - Loi n°97-1051 du 18 novembre 1997 - art. 30 () JORF 19 novembre 1997
 
 _Cité par_:
 
@@ -1340,6 +1301,21 @@ _Cité par_:
   - Décret n°2008-338 du 14 avril 2008 - art. 1 (V)
   - Décret n°2008-338 du 14 avril 2008 - art. 4 (V)
   - Décret n°2008-338 du 14 avril 2008 - art. 3 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 238 bis HP
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5553-10 (V)
+  - Code des transports - art. L5553-7 (V)
+  - Code des transports - art. L5553-8 (V)
+  - Code des transports - art. L5553-9 (V)
 
 
 ###### Article L44
@@ -1429,7 +1405,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre IV : Dispositions générales.<a id=11></a>
+## Titre IV : Dispositions générales.<a id=10></a>
 
 ###### Article L48
 
@@ -1504,7 +1480,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre V : Dispositions relatives aux salariés à temps partiel.<a id=12></a>
+## Titre V : Dispositions relatives aux salariés à temps partiel.<a id=11></a>
 
 ###### Article L50
 
@@ -1563,9 +1539,9 @@ _Nouveaux textes_:
   - Code des transports - art. L5553-6 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=13></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=12></a>
 
-## Préambule<a id=14></a>
+## Préambule<a id=13></a>
 
 ###### Article R1
 
@@ -1579,9 +1555,9 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre Ier : Pensions de retraite des marins.<a id=15></a>
+## Titre Ier : Pensions de retraite des marins.<a id=14></a>
 
-### Chapitre Ier : Conditions d'obtention des pensions.<a id=16></a>
+### Chapitre Ier : Conditions d'obtention des pensions.<a id=15></a>
 
 ###### Article R2
 
@@ -1660,7 +1636,7 @@ _Modifié par_:
   - Décret n°87-587 1987-07-22 art. 1 JORF 30 juillet 1987
 
 
-### Chapitre II : Services ouvrant droit à pension.<a id=17></a>
+### Chapitre II : Services ouvrant droit à pension.<a id=16></a>
 
 ###### Article R6
 
@@ -1837,7 +1813,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-### Chapitre III : Détermination du montant des pensions.<a id=18></a>
+### Chapitre III : Détermination du montant des pensions.<a id=17></a>
 
 ###### Article R11
 
@@ -2047,7 +2023,7 @@ _Modifié par_:
   - Décret n°95-929 du 22 août 1995 - art. 1 () JORF 23 août 1995 en vigueur le 1er août 1995
 
 
-### Chapitre IV : Dispositions diverses.<a id=19></a>
+### Chapitre IV : Dispositions diverses.<a id=18></a>
 
 ###### Article R20
 
@@ -2106,7 +2082,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre III : Versements au profit de la caisse de retraites des marins.<a id=20></a>
+## Titre III : Versements au profit de la caisse de retraites des marins.<a id=19></a>
 
 ###### Article R23
 
@@ -2249,7 +2225,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre IV : Dispositions générales.<a id=21></a>
+## Titre IV : Dispositions générales.<a id=20></a>
 
 ###### Article R29
 
