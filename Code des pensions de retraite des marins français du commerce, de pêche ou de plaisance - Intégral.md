@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1987-07-01
+Version Consolidée au 1987-07-30
 ## Contenu: 
   - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
@@ -1650,17 +1650,23 @@ _Codifié par_:
 
 ###### Article R5
 
-L'âge prévu au 2° a de l'article L. 8 est fixé à cinquante-cinq ans.
+L'âge minimum prévu au premier alinéa de l'article L. 8 est fixé à cinquante-cinq ans.
+
+L'âge minimum prévu au deuxième alinéa de l'article L. 8 est fixé à soixante ans.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins ART. R29 : Dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon
-
 _Cite_:
 
-  - Code des pensions de retraite des marins L8 AL. 2
+  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance L8
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Modifié par_:
+
+  - Décret n°87-587 1987-07-22 art. 1 JORF 30 juillet 1987
 
 
 ### Chapitre II : Services ouvrant droit à pension.<a id=17></a>
