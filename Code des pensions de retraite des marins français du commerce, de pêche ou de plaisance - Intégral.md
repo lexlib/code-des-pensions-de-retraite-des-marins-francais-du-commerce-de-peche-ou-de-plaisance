@@ -1,7 +1,7 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1994-01-19
+Version Consolidée au 1995-02-05
 ## Contenu: 
-  - [Partie législative (art. L1 à L49)](#1)
+  - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
     - [Titre Ier : Pensions de retraite des marins. (art. L2 à L38)](#3)
       - [Chapitre Ier : Conditions d'obtention des pensions. (art. L3 à L9)](#4)
@@ -12,15 +12,16 @@ Version Consolidée au 1994-01-19
     - [Titre II : Pensions de retraite des agents du service général. (art. L39 à L40)](#9)
     - [Titre III : Versements au profit de la caisse de retraites. (art. L41 à L47)](#10)
     - [Titre IV : Dispositions générales. (art. L48 à L49)](#11)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#12)
-    - [Préambule (art. R1)](#13)
-    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#14)
-      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#15)
-      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#16)
-      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#17)
-      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#18)
-    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#19)
-    - [Titre IV : Dispositions générales. (art. R29)](#20)
+    - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. L50 à L51)](#12)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#13)
+    - [Préambule (art. R1)](#14)
+    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#15)
+      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#16)
+      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#17)
+      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#18)
+      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#19)
+    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#20)
+    - [Titre IV : Dispositions générales. (art. R29)](#21)
 # Partie législative<a id=1></a>
 
 ## Préambule<a id=2></a>
@@ -1507,9 +1508,74 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=12></a>
+## Titre V : Dispositions relatives aux salariés à temps partiel.<a id=12></a>
 
-## Préambule<a id=13></a>
+###### Article L50
+
+Lorsque le contrat d'engagement du marin est un contrat de travail à temps partiel au sens des dispositions de l'article 24-1
+du code du travail maritime, le salaire forfaitaire mentionné à l'article L. 42 est réduit à une fraction de son montant
+égale au rapport entre la durée du travail prévue au contrat et la durée légale ou conventionnelle du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 du 21 mars 1968
+
+_Créé par_:
+
+  - Loi n°95-116 1995-02-04 art. 88 II JORF 5 février 1995
+
+_Cité par_:
+
+  - Décret du 30 mai 1997 - art. 1 (V)
+  - Décret n°98-1002 du 2 novembre 1998 - art. 9 (V)
+  - Décret n°2003-304 du 2 avril 2003 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail maritime - art. 24-1
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-23 (V)
+  - Code des transports - art. L5553-6 (V)
+
+
+###### Article L51
+
+La période d'exécution du contrat de travail à temps partiel est prise en compte pour la totalité de sa durée pour la
+constitution du droit aux pensions prévues par le présent code. Toutefois, pour la liquidation de ces pensions, elle n'est
+comptée que pour la fraction de sa durée égale au rapport entre la durée du travail prévue au contrat et la durée légale ou
+conventionnelle du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Créé par_:
+
+  - Loi n°95-116 1995-02-04 art. 88 II JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-23 (V)
+  - Code des transports - art. L5553-6 (V)
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=13></a>
+
+## Préambule<a id=14></a>
 
 ###### Article R1
 
@@ -1523,9 +1589,9 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre Ier : Pensions de retraite des marins.<a id=14></a>
+## Titre Ier : Pensions de retraite des marins.<a id=15></a>
 
-### Chapitre Ier : Conditions d'obtention des pensions.<a id=15></a>
+### Chapitre Ier : Conditions d'obtention des pensions.<a id=16></a>
 
 ###### Article R2
 
@@ -1604,7 +1670,7 @@ _Modifié par_:
   - Décret n°87-587 1987-07-22 art. 1 JORF 30 juillet 1987
 
 
-### Chapitre II : Services ouvrant droit à pension.<a id=16></a>
+### Chapitre II : Services ouvrant droit à pension.<a id=17></a>
 
 ###### Article R6
 
@@ -1781,7 +1847,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-### Chapitre III : Détermination du montant des pensions.<a id=17></a>
+### Chapitre III : Détermination du montant des pensions.<a id=18></a>
 
 ###### Article R11
 
@@ -1994,7 +2060,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-### Chapitre IV : Dispositions diverses.<a id=18></a>
+### Chapitre IV : Dispositions diverses.<a id=19></a>
 
 ###### Article R20
 
@@ -2053,7 +2119,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre III : Versements au profit de la caisse de retraites des marins.<a id=19></a>
+## Titre III : Versements au profit de la caisse de retraites des marins.<a id=20></a>
 
 ###### Article R23
 
@@ -2196,7 +2262,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre IV : Dispositions générales.<a id=20></a>
+## Titre IV : Dispositions générales.<a id=21></a>
 
 ###### Article R29
 
