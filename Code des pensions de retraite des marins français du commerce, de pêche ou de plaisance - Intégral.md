@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
@@ -1955,8 +1955,8 @@ _Modifié par_:
 ###### Article R15
 
 Les veuves de marins ont droit à quarante ans ou sans condition d'âge si elles bénéficient de la dispense édictée à l'article
-L. 18 (1er alinéa) à une pension égale à 50 % [*montant de la pension de réversion, taux*] de la pension et des bonifications
-dont le mari était titulaire ou, s'il est décédé avant d'être pensionné, à 50 % de la pension et des bonifications qu'il
+L. 18 (1er alinéa) à une pension égale à 52 % [*montant de la pension de réversion, taux*] de la pension et des bonifications
+dont le mari était titulaire ou, s'il est décédé avant d'être pensionné, à 52 % de la pension et des bonifications qu'il
 aurait obtenues à cinquante-cinq ans en raison de ses services effectifs.
 
 Chaque orphelin a droit en outre à une pension temporaire égale à 10 % de la pension visée ci-dessus, sous réserve, le cas
@@ -1985,6 +1985,10 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Modifié par_:
+
+  - Décret n°95-721 du 9 mai 1995 - art. 1 (V) JORF 12 mai 1995 en vigueur le 1er avril 1995
 
 
 ###### Article R16
@@ -2026,7 +2030,7 @@ _Codifié par_:
 ###### Article R19
 
 La fraction de la pension spéciale prévue au premier alinéa de l'article L. 24 [*pension de réversion, montant*] est égale à
-50 % [*pourcentage*] de la pension dont le mari était titulaire ou à laquelle il aurait pu prétendre s'il n'était décédé
+52 % [*pourcentage*] de la pension dont le mari était titulaire ou à laquelle il aurait pu prétendre s'il n'était décédé
 avant d'être pensionné.
 
 **Nota:**
@@ -2048,6 +2052,10 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Modifié par_:
+
+  - Décret n°95-721 du 9 mai 1995 - art. 1 (V) JORF 12 mai 1995 en vigueur le 1er avril 1995
 
 
 ### Chapitre IV : Dispositions diverses.<a id=19></a>
