@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1998-09-23
+Version Consolidée au 1999-04-09
 ## Contenu: 
   - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1998-09-23
     - [Titre III : Versements au profit de la caisse de retraites. (art. L41 à L47)](#9)
     - [Titre IV : Dispositions générales. (art. L48 à L49)](#10)
     - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. L50 à L51)](#11)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R29)](#12)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R31)](#12)
     - [Préambule (art. R1)](#13)
     - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#14)
       - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#15)
@@ -21,6 +21,7 @@ Version Consolidée au 1998-09-23
       - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#18)
     - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#19)
     - [Titre IV : Dispositions générales. (art. R29)](#20)
+    - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. R30 à R31)](#21)
 # Partie législative<a id=1></a>
 
 ## Préambule<a id=2></a>
@@ -2283,5 +2284,55 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°85-595 du 11 juin 1985 - art. 1 (Ab) JORF 18 juin 1985
+
+
+## Titre V : Dispositions relatives aux salariés à temps partiel.<a id=21></a>
+
+###### Article R30
+
+Lorsque le marin a été titulaire, simultanément, de plusieurs contrats de travail à temps partiel, la période d'exécution
+simultanée de ces contrats n'est prise en compte qu'une fois pour la constitution du droit à pension.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Créé par_:
+
+  - Décret n°99-265 du 1 avril 1999 - art. 2 () JORF 9 avril 1999
+
+
+###### Article R31
+
+Pour la détermination de la catégorie moyenne visée au 1° de l'article R. 11 ou de la catégorie visée au 2° du même article,
+lorsque le marin a été classé, pendant une période d'exécution simultanée de plusieurs contrats de travail à temps partiel,
+dans des catégories différentes au titre de chacun de ces contrats, il est procédé, avant d'effectuer les calculs prévus à
+l'article R. 11 (1° et 2°), à la détermination de la catégorie moyenne de cette période dans les conditions ci-après :
+
+- l'indice de la catégorie dans laquelle s'est trouvé classé l'intéressé pour l'exécution de chacun des contrats de travail
+est multiplié par le pourcentage correspondant au rapport entre la durée du travail retenue pour le contrat considéré et la
+durée légale ou conventionnelle du travail ;
+
+- la somme des produits résultant de ces opérations est divisée par le pourcentage correspondant au rapport entre la durée du
+travail retenue pour l'ensemble des contrats exécutés simultanément et la durée légale ou conventionnelle du travail ;
+
+- le quotient est arrondi au nombre entier immédiatement supérieur s'il comporte une décimale égale ou supérieure à 5. Il
+n'est pas tenu compte de la décimale dans le cas contraire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance R11
+
+_Codifié par_:
+
+  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+
+_Créé par_:
+
+  - Décret n°99-265 du 1 avril 1999 - art. 2 () JORF 9 avril 1999
 
 
