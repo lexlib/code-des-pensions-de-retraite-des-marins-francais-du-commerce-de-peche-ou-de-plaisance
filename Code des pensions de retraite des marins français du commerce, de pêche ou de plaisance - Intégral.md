@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 1987-02-20
+Version Consolidée au 1987-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
@@ -2131,52 +2131,45 @@ peuvent donner lieu les services de chacun des membres des équipages et des par
 
 Ces taux sont déterminés conformément au barème ci-après :
 
-==============================================================
+DESIGNATION :
 
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ :      DESIGNATION     : CONTRIBUTION : COTISATION :  TOTAL  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                      :  patronale   :  ouvrière  :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :----------------------:--------------:------------:---------: ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                      :    p. 100    :   p. 100   :  p. 100 : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                      :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Marins (cas général) :     17,70    :     10,7   :   28,40 : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                      :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Etrangers admis à    :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  concourir à pension :     17,70    :     10,7   :   28,40 : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                      :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Marins des           :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  territoires         :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  d'outre-mer non     :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  admis à concourir   :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  à pension           :     17,70    :   Néant    :   17,70 : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :                      :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Etrangers non admis  :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  à concourir à       :              :            :         : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :  pension             :     28,40    :   Néant    :   28,40 : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
+Marins (cas général)
 
+Contribution patronale (%) : 17,70
 
-==============================================================
+Cotisation ouvrière (%)    : 10,90
+
+TOTAL                      : 28,60
+
+DESIGNATION :
+
+Etrangers admis à concourir à pension 
+
+Contribution patronale (%) : 17,70
+
+Cotisation ouvrière (%)    : 10,90
+
+TOTAL                      : 28,60
+
+DESIGNATION :
+
+Marins des territoires d'outre-mer non admis à concourir à pension
+
+Contribution patronale (%) : 17,70
+
+Cotisation ouvrière (%)    : néant
+
+TOTAL                      : 17,70
+
+DESIGNATION :
+
+Etrangers non admis à concourir à pension
+
+Contribution patronale (%) : 28,40
+
+Cotisation ouvrière (%)    : néant
+
+TOTAL                      : 28,40
 
 Lorsqu'il est établi, par un rapport de l'autorité consulaire annexé au rôle d'équipage, que l'embarquement d'étrangers hors
 d'un port français a été motivé par l'absence de marins français au port d'embarquement, la contribution patronale est
@@ -2184,7 +2177,11 @@ ramenée de 28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le na
 
 **Nota:**
 
-[*Nota - Décret 87-472 du 30 juin 1987 art. 1 : modifie le taux des cotisations.*]
+[*Nota : Code des pensions de retraite des marins art. R29 :
+
+Dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon.
+
+Décret 87-472 du 30 juin 1987 art. 1 : modifie le taux des cotisations.*]
 
 **Liens relatifs à cet article**
 
@@ -2192,13 +2189,9 @@ _Cite_:
 
   - Code des pensions de retraite des marins L42
 
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions de retraite des marins art. R29 : Dispositions applicables dans le territoire de Saint-Pierre-et-Miquelon
-
 _Modifié par_:
 
-  - Décret n°86-891 1986-07-30 art. 1 JORF 31 juillet en vigueur le 1er août 1986
+  - Décret n°88-781 du 22 juin 1988 - art. 2 (V) JORF 29 juin en vigueur le 1er juillet 1988
 
 
 ###### Article R25
