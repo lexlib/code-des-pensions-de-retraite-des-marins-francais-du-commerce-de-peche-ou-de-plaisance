@@ -1,5 +1,5 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2006-03-24
 ## Contenu: 
   - [Partie législative (art. L1 à L51)](#1)
     - [Préambule (art. L1)](#2)
@@ -976,7 +976,7 @@ Les pensions et secours de la caisse de retraites sont incessibles.
 
 Ces pensions ne sont saisissables qu'à concurrence d'un montant fixé par voie réglementaire et qui diffère selon qu'il
 s'agit, d'une part, de créances de l'Etat, de l'Etablissement national des invalides de la marine ou des créances
-privilégiées de l'article 2101 du Code civil, d'autre part, des créances d'aliments prévues par les articles 203, 205 à 207
+privilégiées de l'article 2331 du Code civil, d'autre part, des créances d'aliments prévues par les articles 203, 205 à 207
 et 214 du Code civil.
 
 Les deux retenues peuvent s'exercer simultanément.
@@ -985,16 +985,28 @@ Les deux retenues peuvent s'exercer simultanément.
 
 _Codifié par_:
 
-  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
+  - Décret n°68-292 du 21 mars 1968
+
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
-  - Code civil - art. 203 (V)
-  - Code civil - art. 205 (V)
-  - Code civil - art. 206 (V)
-  - Code civil - art. 207 (V)
-  - Code civil - art. 2101 (M)
-  - Code civil - art. 214 (V)
+  - Code civil - art. 203
+  - Code civil - art. 205
+  - Code civil - art. 206
+  - Code civil - art. 207
+  - Code civil - art. 214
+  - Code civil - art. 2331
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5552-43 (V)
 
 
 ###### Article L31
@@ -2148,7 +2160,7 @@ _Codifié par_:
 Les pensions sur la caisse de retraites des marins ne sont saisissables que dans les conditions et limites suivantes :
 
 1° Jusqu'à concurrence du cinquième, en cas de créances de l'Etat, de l'Etablissement national des invalides de la marine, ou
-des créances privilégiées de l'article 2101 du Code civil ;
+des créances privilégiées de l'article 2331 du Code civil ;
 
 2° Jusqu'à concurrence du tiers dans le cas des dettes alimentaires prévues par les articles 203, 205, 206, 207 et 214 du
 Code civil.
@@ -2159,14 +2171,18 @@ _Codifié par_:
 
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
 _Cite_:
 
   - Code civil - art. 203 (V)
   - Code civil - art. 205 (V)
   - Code civil - art. 206 (V)
   - Code civil - art. 207 (V)
-  - Code civil - art. 2101 (M)
   - Code civil - art. 214 (V)
+  - Code civil - art. 2331 (V)
 
 
 ###### Article R22
