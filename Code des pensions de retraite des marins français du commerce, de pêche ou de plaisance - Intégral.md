@@ -1,117 +1,22 @@
 # Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance  
-Version Consolidée au 2013-11-09
+Version Consolidée au 2014-12-06
 ## Contenu: 
-  - [Partie législative (art. L11 à L24)](#1)
-    - [Titre Ier : Pensions de retraite des marins. (art. L11 à L24)](#2)
-      - [Chapitre II : Services ouvrant droit à pension. (art. L11)](#3)
-      - [Chapitre III : Détermination du montant des pensions. (art. L24)](#4)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R31)](#5)
-    - [Préambule (art. R1)](#6)
-    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#7)
-      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#8)
-      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#9)
-      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#10)
-      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#11)
-    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#12)
-    - [Titre IV : Dispositions générales. (art. R29)](#13)
-    - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. R30 à R31)](#14)
+  - [Partie législative (art. R1 à )](#1)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R31)](#2)
+    - [Préambule (art. R1)](#3)
+    - [Titre Ier : Pensions de retraite des marins. (art. R2 à R22)](#4)
+      - [Chapitre Ier : Conditions d'obtention des pensions. (art. R2 à R5)](#5)
+      - [Chapitre II : Services ouvrant droit à pension. (art. R6 à R10)](#6)
+      - [Chapitre III : Détermination du montant des pensions. (art. R11 à R19)](#7)
+      - [Chapitre IV : Dispositions diverses. (art. R20 à R22)](#8)
+    - [Titre III : Versements au profit de la caisse de retraites des marins. (art. R23 à R28)](#9)
+    - [Titre IV : Dispositions générales. (art. R29)](#10)
+    - [Titre V : Dispositions relatives aux salariés à temps partiel. (art. R30 à R31)](#11)
 # Partie législative<a id=1></a>
 
-## Titre Ier : Pensions de retraite des marins.<a id=2></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=2></a>
 
-### Chapitre II : Services ouvrant droit à pension.<a id=3></a>
-
-###### Article L11
-
-Le temps de navigation active et professionnelle accompli sur des bâtiments français pourvus d'un rôle d'équipage dans des
-conditions fixées par voie réglementaire, entre en compte pour sa durée effective, sous réserve des dispositions ci-après :
-
-1° Entrent en compte, pour le double de leur durée, les services militaires et les temps de navigation active et
-professionnelle accomplis, en période de guerre, dans les conditions fixées par voie réglementaire.
-
-La disposition ci-dessus s'applique à tous les marins du commerce et de la pêche pensionnés antérieurement ou non à
-l'accomplissement des services susvisés.
-
-Les dispositions des deux phrases qui précèdent ne peuvent ouvrir droit à pension aux marins qui, avant l'accomplissement de
-leurs services de guerre, auraient abandonné la navigation sans être pensionnés.
-
-2° Entre en compte dans la liquidation des pensions le temps pendant lequel les officiers et marins appartiennent aux cadres
-permanents des compagnies de navigation maritime, que les intéressés soient embarqués ou non.
-
-3° Donne lieu à bonification, dans les conditions et limites fixées par voie réglementaire, le temps de campagne effectué sur
-des navires hôpitaux.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
-L. 11 les mots " les officiers et marins appartiennent aux cadres permanents ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°68-292 du 21 mars 1968
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L5552-13 (V)
-  - Code des transports - art. L5552-15 (V)
-  - Code des transports - art. L5552-17 (V)
-
-_Modifié par_:
-
-  - Loi n°79-576 1979-07-10 art. 8 JORF 11 juillet 1979
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-
-### Chapitre III : Détermination du montant des pensions.<a id=4></a>
-
-###### Article L24
-
-Les veuves des marins visés à l'article L. 7 ont droit, par réversion ou par concession directe, à une fraction, fixée par
-décret en Conseil d'Etat, de la pension spéciale dont le mari était titulaire ou à laquelle il aurait pu prétendre s'il
-n'était décédé avant d'être pensionné, sous conditions :
-
-- soit qu'elles obtiennent du chef de leur mari une pension de veuve servie par l'Etat ou un régime légal ou réglementaire de
-sécurité sociale ;
-
-- soit, à défaut, qu'elles aient atteint l'âge prévu à l'article L. 351 du Code de la sécurité sociale (1) et que le mariage
-ait été contracté deux ans avant le décès de leur mari, sauf si un ou plusieurs enfants sont issus du mariage.
-
-Les dispositions des articles L. 20, L. 22 et L. 40 (2° et 4°) (2) sont applicables en tant qu'elles concernent les veuves.
-
-**Nota:**
-
-(1) L'article L351 du Code de la sécurité sociale est abrogé par le décret 85-1353 article 4. 
-
-(2) L'article L40 est abrogé par la loi 97-1051 du 18 novembre 1997 art. 19 II.
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
-L. 24 les mots " l'âge prévu à l'article L. 351 du code de la sécurité sociale" et "deux ans ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°68-292 1968-03-21 JORF 31 mars 1968
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L5552-30 (V)
-
-
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=5></a>
-
-## Préambule<a id=6></a>
+## Préambule<a id=3></a>
 
 ###### Article R1
 
@@ -125,9 +30,9 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre Ier : Pensions de retraite des marins.<a id=7></a>
+## Titre Ier : Pensions de retraite des marins.<a id=4></a>
 
-### Chapitre Ier : Conditions d'obtention des pensions.<a id=8></a>
+### Chapitre Ier : Conditions d'obtention des pensions.<a id=5></a>
 
 ###### Article R2
 
@@ -206,7 +111,7 @@ _Modifié par_:
   - Décret n°87-587 1987-07-22 art. 1 JORF 30 juillet 1987
 
 
-### Chapitre II : Services ouvrant droit à pension.<a id=9></a>
+### Chapitre II : Services ouvrant droit à pension.<a id=6></a>
 
 ###### Article R6
 
@@ -397,7 +302,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-### Chapitre III : Détermination du montant des pensions.<a id=10></a>
+### Chapitre III : Détermination du montant des pensions.<a id=7></a>
 
 ###### Article R11
 
@@ -600,7 +505,7 @@ _Modifié par_:
   - Décret n°95-929 du 22 août 1995 - art. 1 () JORF 23 août 1995 en vigueur le 1er août 1995
 
 
-### Chapitre IV : Dispositions diverses.<a id=11></a>
+### Chapitre IV : Dispositions diverses.<a id=8></a>
 
 ###### Article R20
 
@@ -663,7 +568,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre III : Versements au profit de la caisse de retraites des marins.<a id=12></a>
+## Titre III : Versements au profit de la caisse de retraites des marins.<a id=9></a>
 
 ###### Article R23
 
@@ -806,7 +711,7 @@ _Codifié par_:
   - Décret n°68-292 1968-03-21 JORF 31 mars 1968
 
 
-## Titre IV : Dispositions générales.<a id=13></a>
+## Titre IV : Dispositions générales.<a id=10></a>
 
 ###### Article R29
 
@@ -823,7 +728,7 @@ _Modifié par_:
   - Loi n°85-595 du 11 juin 1985 - art. 1 (Ab) JORF 18 juin 1985
 
 
-## Titre V : Dispositions relatives aux salariés à temps partiel.<a id=14></a>
+## Titre V : Dispositions relatives aux salariés à temps partiel.<a id=11></a>
 
 ###### Article R30
 
